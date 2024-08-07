@@ -1,2 +1,5 @@
 service:
   type: ClusterIP
+
+image:
+  tag: 5b2ec15
